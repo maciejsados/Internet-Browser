@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternetBrowser</string>
+    <string name="edit_text">http://</string>
+    <string name="hint">Enter the URL</string>
+    <string name="Button">Press</string>
+    <string name="url_error">Invalid URL</string>
+    <string name="open_button">Open</string>
+</resources>

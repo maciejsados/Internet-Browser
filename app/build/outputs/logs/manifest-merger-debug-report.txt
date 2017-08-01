@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:5:5-7:23
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Maciej\.android\build-cache\2ff2bc50545ef4a959ad5501f3d555b6118cf170\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Maciej\.android\build-cache\0b0a9b20afb3e52576f9b804bdfd4ebf204eaaf0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Maciej\.android\build-cache\265b4c597a1d7edbd9c90e15799b739821ba04a3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Maciej\.android\build-cache\022dd31612b0999129365c56058b9aebdc65b3a2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Maciej\.android\build-cache\444a1a91e09983ce1158f13ec9ef57764f1731fa\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Maciej\.android\build-cache\5f100841c2e4fc0c33c96b5c41cccc2b8058d2c4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Maciej\.android\build-cache\723c3f0f2908df4725757f77f655320c4a866e58\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Maciej\.android\build-cache\1e486e1ef85ab9f18d49978dd1b37b1b91cd553c\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Maciej\.android\build-cache\74b7d84d5984b8d963b1e20a8e13900f6b254cb6\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.maciej.internetbrowser.MainActivity
+ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.maciej.internetbrowser.SecondActivity
+ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Maciej\.android\build-cache\2ff2bc50545ef4a959ad5501f3d555b6118cf170\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Maciej\.android\build-cache\0b0a9b20afb3e52576f9b804bdfd4ebf204eaaf0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Maciej\.android\build-cache\265b4c597a1d7edbd9c90e15799b739821ba04a3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Maciej\.android\build-cache\022dd31612b0999129365c56058b9aebdc65b3a2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Maciej\.android\build-cache\444a1a91e09983ce1158f13ec9ef57764f1731fa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Maciej\.android\build-cache\5f100841c2e4fc0c33c96b5c41cccc2b8058d2c4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Maciej\.android\build-cache\723c3f0f2908df4725757f77f655320c4a866e58\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Maciej\.android\build-cache\1e486e1ef85ab9f18d49978dd1b37b1b91cd553c\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Maciej\.android\build-cache\74b7d84d5984b8d963b1e20a8e13900f6b254cb6\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Maciej\.android\build-cache\2ff2bc50545ef4a959ad5501f3d555b6118cf170\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\InternetBrowser\app\src\main\AndroidManifest.xml
